@@ -17,3 +17,4 @@ This is subjective, please don't follow this as "the way to go".
 ## Tools
 
   - Git
+  - https://www.npmjs.com/package/live-server
